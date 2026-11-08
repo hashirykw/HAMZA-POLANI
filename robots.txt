@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamza-polani.nexlyr.solutions/sitemap.xml
